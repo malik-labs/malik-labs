@@ -19,7 +19,7 @@ I'm a cyber security student in London, working towards a first-line IT support 
 
 # 📚 Currently Learning:
 
-![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network%2B-in_progress-C8202F?style=flat)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network%2B-Complete-C8202F?style=flat)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-in_progress-C8202F?style=flat)
 ![Linux](https://img.shields.io/badge/Linux_(Raspberry_Pi)-in_progress-FCC624?style=flat&logo=linux&logoColor=black)
 
