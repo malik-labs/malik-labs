@@ -14,5 +14,11 @@ IT professional and cyber enthusiast looking to expand my knowledge and showcase
 [![Security+](https://github.com/user-attachments/assets/60ee6503-0cea-4c64-b30c-e3412517182d)](https://www.credly.com/badges/e81dd879-1e91-4172-adf0-79b285b438f4/public_url)
 [![Pentest+](https://github.com/user-attachments/assets/2e003a4f-dbc2-4e51-a49a-8551b6ea2f2c)](https://www.credly.com/badges/65b9f8f0-afd8-4aed-bfac-02b566e915d2/public_url)
 
+# 📂 Projects:
+
+- 🛠️ [**IT Support Home Lab**](https://github.com/malik-labs/it-support-homelab): Active Directory lab (Windows Server 2022 + Windows 11 in VMware) with 8 simulated helpdesk tickets logged and resolved in Jira Service Management.
+- 🔧 **PC Hardware Installation**: *coming soon*
+- 💻 **Windows Support How-Tos**: *coming soon*
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chryber&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
