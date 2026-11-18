@@ -20,6 +20,6 @@ I'm a cyber security student in London, working towards a first-line IT support 
 
 # 📂 Projects:
 
-- 🛠️ [**IT Support Home Lab**](https://github.com/malik-labs/ActiveDirectoryLab): Active Directory lab (Windows Server 2022 + Windows 11 in VMware) with 8 simulated helpdesk tickets logged and resolved in Jira Service Management.
+- 🛠️ [**Active Directory Home Lab**](https://github.com/malik-labs/ActiveDirectoryLab): Built a Windows Server 2022 domain (AD DS, DNS, DHCP, Group Policy) with a Windows 11 client in VMware, documented in 19 steps with annotated screenshots. Plus 8 simulated helpdesk tickets in Jira Service Management (write-ups in progress).
 - 🔧 **PC Hardware Installation**: *coming soon*
 - 💻 **Windows Support How-Tos**: *coming soon*
