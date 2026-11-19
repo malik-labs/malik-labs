@@ -41,4 +41,4 @@ I'm a cyber security student in London, working towards a first-line IT support 
 
 # 📊 Most Used Languages:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malik-labs&layout=compact&hide_border=true&langs_count=6" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malik-labs&layout=compact&hide_border=true&langs_count=6&theme=github_dark" alt="Most used languages"/>
