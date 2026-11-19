@@ -1,6 +1,6 @@
 #  Welcome, my name is Abdimalik!
 
-I'm a cyber security student in London, working towards a first-line IT support role. I'm studying a **Level 5 HND in Digital Technologies (Cyber Security)**, and I've completed a Level 3 Extended Diploma in IT achieving (A*AA). I learn by building and breaking things being: my home lab which runs a Windows domain in VMware, and I work through simulated realistic helpdesk tickets in Jira. Check out my projects to see what I have been up to! 
+I'm a cyber security student in London, working towards a first-line IT support role. I'm studying a **Level 5 HND in Digital Technologies (Cyber Security)**, and I've completed a Level 3 Extended Diploma in IT achieving (A*AA). I learn by building and breaking things: I run a Windows domain in a VMware home lab and work through realistic simulated helpdesk tickets in Jira. Check out my projects to see what I have been up to! 
 
 
 
