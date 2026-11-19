@@ -7,7 +7,7 @@ I'm a cyber security student in London, working towards a first-line IT support 
 
 🔎 **I'm looking for 1st-line / helpdesk roles.**
 
-# 💻 Tech Stack:
+#  Tech Stack:
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server_2022-0078D4?style=flat)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat)
