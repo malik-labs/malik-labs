@@ -39,6 +39,6 @@ I'm a cyber security student in London, working towards a first-line IT support 
 - 💻 [**Windows Support How-Tos**](https://github.com/malik-labs/Windows-Support-How-Tos): Video guides with written steps for Windows Update, driver updates (including graphics drivers), Disk Cleanup, and drive optimisation.
 - 🎓 [**IT Coursework (BTEC Level 3)**](https://github.com/malik-labs/IT-Coursework): Four Distinction-graded units with my code: a Google Drive cloud system built for five users, an IT support report and PC maintenance issue log, a Python tournament scoring program, and a six-page HTML/CSS/JavaScript website.
 
-# 📊 Most Used Languages:
+# Most Used Languages:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malik-labs&layout=compact&hide_border=true&langs_count=6&theme=github_dark" alt="Most used languages"/>
