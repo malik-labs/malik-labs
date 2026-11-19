@@ -39,6 +39,6 @@ I'm a cyber security student in London, working towards a first-line IT support 
 # 📂 Projects:
 
 - 🛠️ [**Active Directory Home Lab**](https://github.com/malik-labs/ActiveDirectoryLab): Built a Windows Server 2022 domain (AD DS, DNS, DHCP, Group Policy) with a Windows 11 client in VMware, documented in 19 steps with annotated screenshots. Then worked 8 simulated helpdesk tickets in Jira Service Management (password reset, new starter, trust relationship, no network, GPO restriction, account lockout, folder access, leaver), each written up with screenshots.
-- 🔧 [**PC Hardware Basics**](https://github.com/malik-labs/PC-Hardware-Instillation): Short demo videos showing how an enterprise network printer, a SATA SSD and a graphics card are fitted and connected.
+- 🔧 [**PC Hardware Basics**](https://github.com/malik-labs/PC-Hardware-Installation): Short demo videos showing how an enterprise network printer, a SATA SSD and a graphics card are fitted and connected.
 - 💻 [**Windows Support How-Tos**](https://github.com/malik-labs/Windows-Support-How-Tos): Video guides with written steps for Windows Update, driver updates (including graphics drivers), Disk Cleanup, and drive optimisation.
 - 🎓 [**IT Coursework (BTEC Level 3)**](https://github.com/malik-labs/IT-Coursework): Four units with my code: a Google Drive cloud system built for five users, an IT support report and PC maintenance issue log, a Python tournament scoring program, and a six-page HTML/CSS/JavaScript website.
