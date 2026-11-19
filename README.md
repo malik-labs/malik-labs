@@ -26,7 +26,7 @@ I'm a cyber security student in London, working towards a first-line IT support 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=flat&logo=hackthebox&logoColor=9FEF00)
 
-# 📚 Currently Learning:
+#  Currently Learning:
 
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network%2B-Complete-C8202F?style=flat)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-in_progress-C8202F?style=flat)
