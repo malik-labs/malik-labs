@@ -32,9 +32,13 @@ I'm a cyber security student in London, working towards a first-line IT support 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-in_progress-C8202F?style=flat)
 ![Linux](https://img.shields.io/badge/Linux_(Raspberry_Pi)-in_progress-FCC624?style=flat&logo=linux&logoColor=black)
 
+# 📊 Most Used Languages:
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malik-labs&layout=compact&hide_border=true&langs_count=6" alt="Most used languages"/>
+
 # 📂 Projects:
 
 - 🛠️ [**Active Directory Home Lab**](https://github.com/malik-labs/ActiveDirectoryLab): Built a Windows Server 2022 domain (AD DS, DNS, DHCP, Group Policy) with a Windows 11 client in VMware, documented in 19 steps with annotated screenshots. Then worked 8 simulated helpdesk tickets in Jira Service Management (password reset, new starter, trust relationship, no network, GPO restriction, account lockout, folder access, leaver), each written up with screenshots.
 - 🔧 [**PC Hardware Basics**](https://github.com/malik-labs/PC-Hardware-Instillation): Short demo videos showing how an enterprise network printer, a SATA SSD and a graphics card are fitted and connected.
 - 💻 [**Windows Support How-Tos**](https://github.com/malik-labs/Windows-Support-How-Tos): Video guides with written steps for Windows Update, driver updates (including graphics drivers), Disk Cleanup, and drive optimisation.
-- 🎓 [**IT Coursework (BTEC Level 3)**](https://github.com/malik-labs/IT-Coursework): Distinction-graded units: a Google Drive cloud system I built for five users, with permissions, peer feedback and cross-device testing, and an IT support report covering 1st/2nd/3rd-line roles, plus a PC maintenance issue log.
+- 🎓 [**IT Coursework (BTEC Level 3)**](https://github.com/malik-labs/IT-Coursework): Four units with my code: a Google Drive cloud system built for five users, an IT support report and PC maintenance issue log, a Python tournament scoring program, and a six-page HTML/CSS/JavaScript website.
