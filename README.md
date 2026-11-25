@@ -6,7 +6,7 @@ I'm a cyber security student in London, working towards a first-line IT support 
 
 
 
-🔎 **Currently looking for 1st-line / helpdesk roles.**nnsa 
+🔎 **Currently looking for 1st-line / helpdesk roles.**
 
 #  Tech Stack:
 
